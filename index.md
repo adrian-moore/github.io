@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Feel free to say hello!
 
-You can use the [editor on GitHub](https://github.com/adrian-moore/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## TL;DR
+Modern chat communication should be done in a way that doesn't reduce human interaction to an "asynchronus exchange of information". If you want to say "hello" before writing your question, that's cool with me! I won't ignore your message, although I may not repsond immediately if I am in the middle of something important.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Chat Etiquette
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+2021-11-29 14:32:12 you: Hi
+2021-11-29 14:32:15 co-worker: Hello.
+#CO-WORKER CARRIES ON WITH WHATEVER THEY WERE DOING WHILE YOU PHRASE YOUR QUESTION
+2021-11-29 14:34:01 you: I'm working on [something] and I'm trying to do [etc...]
+2021-11-29 14:35:21 co-worker: Oh, that's [answer...]
 
-### Jekyll Themes
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adrian-moore/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Of course, if this was on the phone there would be some pleasantries before asking your question, and no delay caused by tying. But hey, this isn't the phone! Big deal, there's a slight delay!
 
-### Support or Contact
+aka.ms/nohello wants you to do this:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+2021-11-29 14:32:12 you: Hi -- I'm working on [something] and I'm trying to do [etc...]
+2021-11-29 14:33:32 co-worker: [answers question]
+
+```
+
+**Note how soulless this exchange is. No thanks!**
+
+***There's nothing wrong with saying hello!*** You’re being polite by not jumping right into the request, just like you would do in person or on the phone. Even though Chat is neither of those things, it's still nice to say hello! Let's not lose the pleasantries in life. Typing is much slower than talking, yes, but you are not making the other person wait for you to phrase your question, because no one actually sits and watches the *"...is typing"* screen - we just carry on with whatever we were doing. So there really is no lost productivity.
+
+### Call Etiquette
+
+Some people like to probe with an initial “hello” to verify whether the presence status shown is true, which makes sense as you may need an urgent response and will try someone else if they're not around!
+
+Chat is great, but it's even better to talk to people. Maybe try this instead:
+
+```
+2021-11-30 15:32:12 you: Hey - I could really do with your help! Got a few mins for a quick call to talk about XYZ please?
+
+```
+
+This does three things: it lets them know it's just a quick question, it gives them some context, and it means you get to hear a human voice!
