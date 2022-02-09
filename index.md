@@ -16,7 +16,7 @@ Modern chat communication should be done in a way that doesn't reduce human inte
 
 ```
 
-Of course, if this was on the phone there would be some pleasantries before asking your question, and no delay caused by tying. But hey, this isn't the phone! Big deal, there's a slight delay!
+Of course, if this was on the phone there would be some pleasantries before asking your question, and no delay caused by typing. But hey, this isn't the phone! Big deal, there's a slight delay!
 
 aka.ms/nohello wants you to do this:
 
